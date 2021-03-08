@@ -33,7 +33,9 @@
 ![](https://img.shields.io/badge/Tools-Visual%20Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Tools-VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Tools-Fusion%20360-informational?style=flat&logo=autodesk&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=purple)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=purple)
 
 ## 📈 Some of my Github Stats
 [![Github stats](https://github-readme-stats.vercel.app/api?username=QuinnPainter&show_icons=true&include_all_commits=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
