@@ -36,8 +36,8 @@
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=purple)
 
 ## 📈 Some of my Github Stats
-[![Github stats](https://github-readme-stats.vercel.app/api?username=QuinnPainter&show_icons=true&include_all_commits=true&theme=dark)](https://github.com/QuinnPainter/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuinnPainter&layout=compact&theme=dark)](https://github.com/QuinnPainter/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=QuinnPainter&show_icons=true&include_all_commits=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuinnPainter&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **QuinnPainter/QuinnPainter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
