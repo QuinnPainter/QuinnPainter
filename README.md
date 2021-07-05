@@ -17,7 +17,7 @@
 
 -------
 ## 💬 About Me
-- 👨‍🎓 In my second year of a Computer Games Development course at UL
+- 👨‍🎓 In my third year of a Computer Games Development course at UL
 - 🌱 I’m currently learning about **PCB Design**
 - 🎵 In my free time, I enjoy chiptune music and gaming
 
