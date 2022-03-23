@@ -10,9 +10,6 @@
   <a href="https://github.com/QuinnPainter">
     <img src="https://img.shields.io/badge/-QuinnPainter-grey?style=flat&logo=github&logoColor=white&link=https://github.com/QuinnPainter" />
   </a>
-  <a href="https://github.com/antonkomarev/github-profile-views-counter" alt="Profile views">
-    <img src="https://komarev.com/ghpvc/?username=QuinnPainter&color=f39c19" />
-  </a>
 </p>
 
 -------
