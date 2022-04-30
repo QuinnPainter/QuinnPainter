@@ -15,7 +15,7 @@
 -------
 ## 💬 About Me
 - 👨‍🎓 In my third year of a Computer Games Development course at UL
-- 🌱 I’m currently learning about **PCB Design**
+- 🌱 I’m currently learning about **FPGAs / Verilog**
 - 🎵 In my free time, I enjoy chiptune music and gaming
 
 ## 🔧 Skills
