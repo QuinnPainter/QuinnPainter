@@ -13,11 +13,13 @@
 </p>
 
 -------
-## 💬 About Me
-- 👨‍🎓 In my third year of a Computer Games Development course at UL
-- 🌱 I’m currently learning about **FPGAs / Verilog**
-- 🎵 In my free time, I enjoy chiptune music and gaming
+Hi, I'm Quinn!  
+I mainly do low level / embedded development, messing with the likes of game system emulators and Game Boy homebrew.  
+Recently been doing C, C++, Assembly (6502, SM83, ARM) and Rust, but have used many more things. My other interests include 3D printing, game development, and writing little Python scripts to solve random little problems.
 
+That banner is pretty neat, huh? It's made from the schematic for my [6502Computer](https://github.com/QuinnPainter/6502Computer) project.
+
+<!--
 ## 🔧 Skills
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=blue)
@@ -33,8 +35,9 @@
 ![](https://img.shields.io/badge/Tools-Fusion%20360-informational?style=flat&logo=autodesk&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=purple)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=purple)
+-->
 
-## 📈 Some of my Github Stats
+## Some fun stats
 [![Github stats](https://github-readme-stats.vercel.app/api?username=QuinnPainter&show_icons=true&include_all_commits=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuinnPainter&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
